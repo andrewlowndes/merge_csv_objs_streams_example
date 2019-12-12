@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "lib": ["ESNext"],
+        "target": "ES2017",
+        "downlevelIteration": true,
+        "module": "CommonJS",
+        "strict": true
+    }
+}
